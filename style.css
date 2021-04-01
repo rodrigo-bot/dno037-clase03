@@ -126,7 +126,7 @@ main {
 }
 
 #galeriadiv{
-     position: absolute;
+   vertical-align: middle
     bottom: 1.75rem;
     left: 1.75rem;
     width: 7rem;
@@ -141,6 +141,7 @@ main {
     outline: none;
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
+
 
 
 
